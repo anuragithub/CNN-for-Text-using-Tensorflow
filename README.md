@@ -10,4 +10,5 @@ Dataset being used here is news-dataset provided by bbc and is for research purp
 
 ## How to run
 * After installing required libaries, run main.py from src folder
+* Download data [link](http://mlg.ucd.ie/files/datasets/bbc-fulltext.zip) and place it accordingly as mentioned in data readme file.
 * Make sure the data path is correct in main.py file
